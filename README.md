@@ -10,7 +10,7 @@ Nama Aplikasi : Kontak <br>
 ## Instalasi Aplikasi
 ### File Drive
 Download Aplikasi Pada Link Berikut, Kemudian Instal Pada Android Anda <br>
-Link : <a href="https://expo.dev/artifacts/44a08c10-ec5d-4e4c-b897-2a872f7f7efa">bit.ly/kontak-react-native </a>
+Link : <a href="https://expo.dev/artifacts/44a08c10-ec5d-4e4c-b897-2a872f7f7efa">Link download Kontak.apk </a>
 
 ### Dengan npm atau expo
 1. Clone repository ini dengan menjalankan perintah berikut <br>
